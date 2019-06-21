@@ -1,0 +1,42 @@
+.zero{display: flex;
+    flex-direction: row;
+    justify-content: space-between;}
+.google{display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin: 10px; margin-left: 10px;
+padding-bottom: 25%}
+.d{position: absolute; top: 30px; right: 70px;
+   border-radius: 50%;
+    color: white;
+    background: #FF3A21;
+    border: 0px;
+}
+.one {display: flex;
+    flex-direction: row;
+    justify-content: center;}
+.text{height: 40px; width: 10%;
+    padding-left: 20px;
+    padding-right: 25%;
+    background: #D3D3D3;
+    border-radius: 25px;
+    border: 0px;
+}
+.two{display: flex;
+    flex-direction: row;
+    justify-content: center;}
+.icon{display: flex; 
+    flex-direction: row;
+    padding-top: 25px;
+    padding-right: 25px;}
+.drive{display: flex;
+    flex-direction: row;
+    padding-top: 25px;
+    padding-right: 25px;}
+.plus{display: flex;
+    flex-direction: row;
+    padding-top: 25px;  
+    padding-right: 25px;}
+.end{display: flex;
+    flex-direction: row;
+    justify-content: flex-end; }
